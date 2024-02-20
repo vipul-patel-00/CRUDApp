@@ -22,3 +22,9 @@
 # Database Used  ----- MySql :
     database name - crudappdb
     table name - student
+
+# First Commit :
+        physical connection for jdbc was used.
+
+# Second Commit:
+        HikariCp logical connection pooling mechanism is use.
